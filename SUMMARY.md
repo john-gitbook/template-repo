@@ -15,8 +15,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1/README.md)
-  * [Subpage](group-1/page-1/subpage.md)

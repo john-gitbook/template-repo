@@ -8,6 +8,10 @@ icon: bullseye-arrow
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
+{% include "../.gitbook/includes/steve-bruce.md" %}
+
+
+
 {% hint style="info" %}
 Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
 {% endhint %}
