@@ -1,6 +1,6 @@
 # Page 1
 
-![markdown.webp](./attachments/markdown.webp)
+![markdown.webp](./.gitbook/assets/markdown.webp)
 
 ![edito.webp](./attachments/edito.webp)
 
