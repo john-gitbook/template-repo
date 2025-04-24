@@ -2,7 +2,7 @@
 
 ![markdown.webp](./.gitbook/assets/markdown.webp)
 
-![edito.webp](./.gitbook/edito.webp)
+![edito.webp](./.gitbook/assets/edito.webp)
 
 # Heading One
 
