@@ -6,7 +6,7 @@ icon: bullseye-arrow
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content. Hi
 
 
 
