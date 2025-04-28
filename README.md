@@ -18,4 +18,3 @@ layout:
     visible: true
 ---
 
-# Welcome
