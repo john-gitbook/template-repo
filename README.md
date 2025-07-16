@@ -1,22 +1,4 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
 
 # Welcome
 
@@ -28,3 +10,5 @@ hi there
 {% include ".gitbook/includes/hello-world.md" %}
 
 {% embed url="https://www.youtube.com/watch?v=Qa9XwF8cjeE" %}
+
+change
