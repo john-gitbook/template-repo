@@ -20,4 +20,4 @@ layout:
 
 
 # hello world
-hi there
+hi there. How are you?
