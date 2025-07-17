@@ -2,5 +2,5 @@
 
 # Welcome
 
-<a href="editor.md" class="button primary">New button</a>
+<a href="https://gitbook.com" class="button primary">New button</a>
 
